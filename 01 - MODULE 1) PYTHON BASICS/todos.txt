@@ -1,6 +1,3 @@
 Clean
-Study
-Throw
-Buy
-Clean
-Study
+Play
+Write
