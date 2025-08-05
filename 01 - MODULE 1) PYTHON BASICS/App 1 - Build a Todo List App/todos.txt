@@ -3,3 +3,4 @@ Cut the tree
 Wash the dishes
 Throw trash
 Learn python
+Fix the floor
